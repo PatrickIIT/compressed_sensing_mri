@@ -101,18 +101,6 @@ To set up the environment and run the experiments, please follow these steps.
     ```bash
     pip install -r requirements.txt
     ```
-    The `requirements.txt` file should contain:
-    ```
-    numpy
-    torch
-    torchvision
-    scikit-image
-    matplotlib
-    pywavelets
-    pydicom
-    nibabel
-    h5py
-    ```
 
 ---
 
