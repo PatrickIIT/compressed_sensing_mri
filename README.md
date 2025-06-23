@@ -148,7 +148,7 @@ If you use this work in your research, please cite it as follows:
 @misc{vincent2024cs_mri_comparison,
   author       = {Vincent, Patrick},
   title        = {Comparative Analysis of Compressed Sensing Techniques for MRI Reconstruction},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/PatrickIIT/compressed_sensing_mri}}
